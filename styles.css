@@ -1,3 +1,6 @@
+body {
+  background-image: "76db";
+}
 /* Cacher le bouton pause en mode PAUSE */
 #pause-icon {
   display: none;
